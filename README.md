@@ -7,6 +7,7 @@ University: Saskatchewan
 
 
 1)Data: The Sorghum-100 dataset consists of 48,106 images and 100 different sorghum cultivars grown in June of 2017 (the images come from the middle of the growing season when the plants were quite large but not yet lodging – or falling over). The dataset of sorghum is in the below link: 
+
 https://www.kaggle.com/competitions/sorghum-id-fgvc-9/data
 
 
