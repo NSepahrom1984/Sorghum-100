@@ -15,7 +15,7 @@ https://www.kaggle.com/competitions/sorghum-id-fgvc-9/data
 
 3)Main Model: EfficientNet 
 
-4)Sub Sample: Using apricot package
+4)Sub Sample: Using apricot package / apricot-train.ipynb
 
 4)Statistical: 1) T-SNE.ipynb,2) Graphics.ipynb, 3)Darkest-Brightest.ipynb, 4) Cultivar.hist.ipynb
 
